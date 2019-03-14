@@ -7,5 +7,4 @@ produces a list of farm leads - given .shp inputs of parcel data and silo locati
 - see 'introducing_leadgen.pdf' for more information and a general introduction to the tool
 
 
-![LeadGen Dashboard Itelligence]
-(https://github.com/alexkapps/lead_gen/blob/master/scratch/Example_Dashboard_Intel.png?raw=true_)
+![LeadGen Dashboard Itelligence](https://github.com/alexkapps/lead_gen/blob/master/scratch/Example_Dashboard_Intel.png?raw=true_)
